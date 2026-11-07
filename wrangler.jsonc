@@ -13,12 +13,14 @@
 			"remote": false
 		}
 	],
+	  
 	"d1_databases": [
 		{
 			"binding": "inxizang_db",
 			"database_name": "inxizang-db",
 			"database_id": "96616f96-1ef4-4dc7-a592-8d8633789ef5",
-			"remote": false
+			"remote": false,
+			"migrations_dir": "./drizzle",
 		}
 	]
 }
